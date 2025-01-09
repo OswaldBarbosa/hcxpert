@@ -1,6 +1,6 @@
 # Projeto de Automação com Cypress e Cucumber
 
-Bem-vindo ao projeto de automação! Este repositório contém testes automatizados para um site de e-commerce utilizando Cypress com Cucumber para BDD (Behavior Driven Development).
+Bem-vindo ao projeto de automação! Este repositório contém testes automatizados para um site de e-commerce utilizando Cypress com Cucumber.
 
 ## Tecnologias Utilizadas
 
