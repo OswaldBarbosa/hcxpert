@@ -1,4 +1,7 @@
 Feature: Login
+    As a user
+    I want to authenticate by providing valid credentials
+    So that I can receive appropriate feedback
 
     Scenario Outline: "<scenario>"
         Given I am on the login page

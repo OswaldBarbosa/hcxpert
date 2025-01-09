@@ -14,6 +14,6 @@ When(/^I click the login button$/, () => {
   loginPage.clickLoginButton();
 });
 
-Then(/^I should see "([^"]*)"$/, (text) => {
-  loginPage.verifyLogin(text);
+Then(/^I should see "([^"]*)"$/, (message) => {
+  loginPage.verifyLogin(message);
 });

@@ -1,4 +1,7 @@
-Feature: Verify product in cart
+Feature: Verify Product in Cart
+    As a user
+    I want to add a product to the cart
+    So that I can view it in the cart
 
     Scenario Outline: Verify product in cart
         Given I am on the product page

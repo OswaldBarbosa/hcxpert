@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 import LoginElements from "../elements/login_elements";
 
 const baseUrl = Cypress.config("baseUrl");

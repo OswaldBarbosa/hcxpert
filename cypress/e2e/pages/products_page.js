@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 import ProductsElements from "../elements/products_elements";
 
 const baseUrl = Cypress.config("baseUrl");
