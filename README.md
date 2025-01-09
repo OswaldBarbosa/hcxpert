@@ -34,6 +34,6 @@ Antes de começar, você precisará ter os seguintes softwares instalados em sua
    npx cypress open
    ```
 
-## Testes de API
+## Testes
 
 Para executar os testes, você pode visualizá-los na interface do Cypress, onde é possível selecionar e rodar cada teste individualmente.
